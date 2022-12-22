@@ -1,0 +1,58 @@
+.topnav {
+    background-color: rgb(255, 255, 255);
+    margin-top: -272px;
+    position: relative;
+  }
+  .topnav a 
+  {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 26px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Courier New', monospace;
+  }
+  .topnav a:hover 
+  {
+    background-color: #ddd;
+    color: black;
+  }
+  .left
+  {
+    float: left;
+  }
+  .right
+  {
+    float: right;
+  }
+body {
+  background-image: url('greyphoto2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+* {
+  box-sizing: border-box;
+}
+.maphaskovo
+{
+    margin-top: 250px;
+    margin-left: 150px;
+}
+.maphaskovowhite
+{
+    margin-left: 750px;
+    margin-top: -455px;
+}
+.maphaskovotext
+{
+    text-align: center;
+    margin-left: 490px;
+    margin-top: -455px;
+}
+.mapsofia
+{
+  margin-top: 200px;
+  margin-left: -1160px;
+}
